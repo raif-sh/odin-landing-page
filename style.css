@@ -85,7 +85,7 @@ h1 {
 
 .quote-section {
     background-color: #E5E7EB;
-    padding: 20px;
+    padding: 100px;
 }
 
 .quote {
@@ -103,4 +103,44 @@ h1 {
 .author {
     font-weight: 800;
     text-align: right;
+}
+
+.cta-section {
+    margin: 100px;
+}
+
+.cta-modal {
+    background-color: #3882F6;
+    border-radius: 8px;
+    margin-top: 24px;
+    width: 800px;
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
+
+.cta-content {
+    color: #fff;
+}
+
+.cta-content p {
+    margin: 0;
+}
+
+.cta-content .main-text {
+    padding: 0;
+    margin: 0;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.cta-modal button {
+    padding: 8px 16px;
+    border-radius: 4px;
+    background-color: transparent;
+    border: 2px solid #fff;
+    color:white;
+    font-size: 14px;
 }
