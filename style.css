@@ -82,3 +82,25 @@ h1 {
     width: 100px;
     margin: auto;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+    padding: 20px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.quote-container {
+    margin: auto;
+    width: 800px;
+}
+
+.author {
+    font-weight: 800;
+    text-align: right;
+}
