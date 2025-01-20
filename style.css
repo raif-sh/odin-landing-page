@@ -57,7 +57,28 @@ h1 {
 
 .left-hero, .right-hero {
     flex: 1;
-    margin: 44px 0px;
+    margin: 44px 20px;
     padding: 20px 0px;
 }
 
+.info {
+    text-align: center;
+    margin-top: 44px;
+    margin-bottom: 100px
+}
+
+.card-section {
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.card-image {
+    border: 2px solid #3882F6;
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
